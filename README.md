@@ -1,4 +1,4 @@
-# 📚 BookHaven — Online Bookstore
+# 📚 BookWorm — Online Bookstore
 
 A full-stack online bookstore built with **Next.js 15**, **TypeScript**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**.
 
